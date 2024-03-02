@@ -84,6 +84,16 @@ def get_conversational_rag_chain(retriever_chain):
             https://learnenglishforhealthcare.com/top-resources-for-oet-reading-practice/
             https://promedicalenglish.com/free-oet-materials/
             https://promedicalenglish.com/oet-preparation/
+            https://www.oetpractice.net/?gad_source=1&gclid=CjwKCAiAloavBhBOEiwAbtAJOyC6I6YlybqZl3Lwrk_Pqv-pOmMd02Ywrjh34XAtoVB-qNyoSXqlvxoCZiEQAvD_BwE
+            https://support.occupationalenglishtest.org/s/article/How-should-I-prepare-for-OET
+            https://specialistlanguagecourses.com/preparing-for-the-oet-exam-a-step-by-step-guide-for-beginners/
+            https://www.imgconnect.co.uk/news/2023/01/oet-a-guide-for-overseas-doctors/60
+            https://tijusacademy.com/blogs/oet/
+            https://www.cambridgeenglish.org/exams-and-tests/oet/
+            https://oet.com/learn/preparation-information/preparation-providers
+            https://synergynurse.co.uk/courses/oet-course-for-nurses-doctors/
+            https://oidigitalinstitute.com/courses/test-preparation/occupational-english-test-preparation/
+            https://swooshenglish.com/improving-your-reading-and-listening-for-the-oet/
                         .
 
             FAQs and Support: Provide answers to frequently asked questions about the OET exam, registration process, scoring criteria, etc. provide sample OET medical exam questions wait for them to answer and correct them if make mistakes coupled with improvement recommendations .
